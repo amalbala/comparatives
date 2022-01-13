@@ -1,2 +1,8 @@
-# comparatives
-compare image folders using matplotlib
+# Comparatives
+
+Generate comparative images using matplotlib
+
+# Dependencies
+
+* Opencv
+* Matplotlib
